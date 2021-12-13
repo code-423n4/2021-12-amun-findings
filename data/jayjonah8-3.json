@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "0",
+  "title": "getTokenInPool() naming is confusing ",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/3"
+}
