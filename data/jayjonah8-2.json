@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "1",
+  "title": "addToken() require check is not consistent with others similar to it ",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/2"
+}
