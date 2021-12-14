@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "In SingleTokenJoinV2.sol, a user can provide malicious input ",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/57"
+}
