@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "G",
+  "title": "BasketFace#calcOutStandingAnnualizedFee no need for safe subtraction",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/40"
+}
