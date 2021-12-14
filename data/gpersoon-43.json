@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "Underflow possible in rebalance() of RebalanceManagerV3 ",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/43"
+}
