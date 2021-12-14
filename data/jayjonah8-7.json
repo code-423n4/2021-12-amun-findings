@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "1",
+  "title": "callNoValue() function does not guard against zero address",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/7"
+}
