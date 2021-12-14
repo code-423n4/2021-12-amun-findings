@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "joinPool() can get past Cap",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/36"
+}
