@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "griefing attack: prevent deletion of tokens from basket",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/38"
+}
