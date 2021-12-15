@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "zoro",
+  "address": "0xC5307A57A2F9E7d2a67974856EaAC2eb8edeA8B4",
+  "risk": "2",
+  "title": "Swap with no slippage check",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/61"
+}
