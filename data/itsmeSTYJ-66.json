@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "2",
+  "title": "Bad practice to set 0 for minQty when calling swapExactTokensForTokens",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/66"
+}
