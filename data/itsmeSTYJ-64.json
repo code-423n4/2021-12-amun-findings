@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "1",
+  "title": "BasketFacet.sol: Multiply before divide",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/64"
+}
