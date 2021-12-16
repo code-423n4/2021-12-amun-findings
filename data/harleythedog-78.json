@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "2",
+  "title": "Failed transfer with low level call could be overlooked",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/78"
+}
