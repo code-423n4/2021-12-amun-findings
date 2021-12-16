@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412fc011d74c26e3ca768ab6224643702313",
+  "risk": "1",
+  "title": "Function `rebalance` in `RebalanceManager` (v1 and v2) overwrites lock",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/83"
+}
