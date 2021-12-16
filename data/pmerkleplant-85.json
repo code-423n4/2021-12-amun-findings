@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412fc011d74c26e3ca768ab6224643702313",
+  "risk": "G",
+  "title": "Don't initialize variables with default value",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/85"
+}
