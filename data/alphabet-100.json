@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "alphabet",
+  "address": "0xfF377D23ee9422932ee53758A6Eb7dc0b0192e1a",
+  "risk": "2",
+  "title": "protectedCall shared modifier can be bypassed on all functions by registered callers by using singleCall / call / callNoValue on the contract's own address, impersonating the contract in reference to itself",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/100"
+}
