@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "SingleJoin/SingleExit contracts use `transfer()` to send ether back to the caller",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/131"
+}
