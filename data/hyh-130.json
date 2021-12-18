@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "SingleNativeTokenExitV2 and JoinV2 will approve any premade contract for unlimited spending",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/130"
+}
