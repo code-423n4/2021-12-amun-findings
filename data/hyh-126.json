@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "0",
+  "title": "BasketFacet.MIN_AMOUNT doesn't take into account token's decimals",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/126"
+}
