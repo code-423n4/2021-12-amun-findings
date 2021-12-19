@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Basket might be unusable after initialization due to _initialSupply = 0",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/159"
+}
