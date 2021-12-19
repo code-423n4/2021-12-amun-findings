@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Unused ERC20 tokens are not refunded, and can be stolen by attacker",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/201"
+}
