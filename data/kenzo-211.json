@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "G",
+  "title": "PolygonERC20Wrapper does not need to be ERC20",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/211"
+}
