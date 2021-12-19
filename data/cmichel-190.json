@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "Wrapped native token is assumed as the `INTERMEDIATE_TOKEN`",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/190"
+}
