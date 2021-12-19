@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "0xabcc",
+  "address": "0xF3a6a14234b8A728aF7bBaaED2Ea6d4f951ea0Be",
+  "risk": "G",
+  "title": "Redundant check on feeBeneficiaryShare",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/218"
+}
