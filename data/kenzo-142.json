@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Basket's max cap can be surpassed due to beneficiary entry fee",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/142"
+}
