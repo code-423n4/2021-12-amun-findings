@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "Czar102",
+  "address": "0x52cAC9F2df3068107c95DB3Acf3f6B1256d75E45",
+  "risk": "3",
+  "title": "It might not be possible to withdraw tokens from the basket",
+  "issueId": 287,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/287"
+}
