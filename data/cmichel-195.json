@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: Intermediate min-return check in `_joinTokenSingle` is unnecessary",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/195"
+}
