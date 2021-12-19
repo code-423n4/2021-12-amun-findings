@@ -1,0 +1,9 @@
+{
+  "contest": "Amun contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "1",
+  "title": "ETH that is accidentally sent to a receive() function cannot be withdrawn",
+  "issueId": 253,
+  "issueUrl": "https://github.com/code-423n4/2021-12-amun-findings/issues/253"
+}
